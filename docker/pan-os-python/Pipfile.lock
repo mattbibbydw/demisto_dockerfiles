@@ -95,11 +95,11 @@
         },
         "pan-os-python": {
             "hashes": [
-                "sha256:468447ecfdcca27196f00b52ddd76a1cb7cf9c45e5ee582e0c14d76f88e9ca2d",
-                "sha256:55fd364ffbbf07cf35b670c108b5c199ab80e3120be501c294851a010c07029b"
+                "sha256:843972122ef4c5bfd17354070e3ada1285e243325f5e7cf7fd969150048becd4",
+                "sha256:da9153fe4a961a43d36016851ab06df45a37ea8612ed36b3b5b528f8394f34f5"
             ],
             "index": "pypi",
-            "version": "==1.7.3"
+            "version": "==1.8.0"
         },
         "pan-python": {
             "hashes": [
